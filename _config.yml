@@ -1,0 +1,28 @@
+name: GridCopy
+favicon: null
+layout_spectrum: 0.7061119035352021
+typography_spectrum: 0.7403296327684075
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.17256135237403214
+  lightness: 0.1465596363414079
+  saturation: 0.8724023455288261
+  rhythmicContrast: 0.23697320045903325
+purpose: []
