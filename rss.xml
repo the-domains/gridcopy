@@ -4,8 +4,15 @@
         <description><![CDATA[GridCopy]]></description>
         <link>https://thegrid.ai/gridcopy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 22:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 22:20:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gridcopy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GOODBYE TEMPLATES]]></title>
+            <description><![CDATA[<article><h1>GOODBYE TEMPLATES</h1><p>This is all the info that i have added to the grid so far to see how well it is going to work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b73f542b46eb922f615db427766fc7861c9b0f14.jpg"></article>]]></description>
+            <link>https://thegrid.ai/gridcopy/goodbye-templates/index.html</link>
+            <guid isPermaLink="false">22cc5901-6e81-4cf6-9a33-6de7501468b2</guid>
+            <pubDate>Wed, 27 Jan 2016 22:19:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3479920a-31bc-4104-8400-7ee0a2c6ef67.jpg">]]></description>
@@ -19,27 +26,6 @@
             <link>https://thegrid.ai/gridcopy/eb2a0f01-21a1-458b-b4f8-58a24d9a6055/index.html</link>
             <guid isPermaLink="false">eb2a0f01-21a1-458b-b4f8-58a24d9a6055</guid>
             <pubDate>Wed, 27 Jan 2016 21:58:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[THE RIGHT SHOT EVERY TIME]]></title>
-            <description><![CDATA[<article><h1>THE RIGHT SHOT EVERY TIME</h1><p>Why waste time cropping by hand? The Grid automatically detects faces in your photos and crops images to fit any size on any display. All you have to do is find the perfect photo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/86e49f854cb4669b2572ed26500b8bf9da5d5eb7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/gridcopy/the-right-shot-every-time/index.html</link>
-            <guid isPermaLink="false">4d0cef02-7fbc-4a41-8049-6242e245cc17</guid>
-            <pubDate>Wed, 27 Jan 2016 21:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GOODBYE TEMPLATES]]></title>
-            <description><![CDATA[<article><h1>GOODBYE TEMPLATES</h1><p>This is all the info that i have added to the grid so far to see how well it is going to work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b73f542b46eb922f615db427766fc7861c9b0f14.jpg"></article>]]></description>
-            <link>https://thegrid.ai/gridcopy/goodbye-templates/index.html</link>
-            <guid isPermaLink="false">22cc5901-6e81-4cf6-9a33-6de7501468b2</guid>
-            <pubDate>Wed, 27 Jan 2016 21:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Site As Colorful As You]]></title>
-            <description><![CDATA[<article><h1>A Site As Colorful As You</h1><p>Our algorithms expertly analyze your media and apply color palettes that keep your messaging consistent and unique. The Grid also detects color contrasts, automatically adjusting typography color to maximize legibility.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acabb21be90936032f3696cafa07a8e29765a0f8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/gridcopy/a-site-as-colorful-as-you/index.html</link>
-            <guid isPermaLink="false">a5a09f96-bc80-4008-a136-dd1493b16cac</guid>
-            <pubDate>Wed, 27 Jan 2016 21:37:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hello World]]></title>
