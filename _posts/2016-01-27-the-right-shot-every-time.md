@@ -1,25 +1,24 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'INTELLIGENT FACE DETECTION & SMART CROPPING'
-datePublished: '2016-01-27T21:56:25.988Z'
-dateModified: '2016-01-27T21:56:12.661Z'
+datePublished: '2016-01-27T22:19:29.941Z'
+dateModified: '2016-01-27T22:19:27.270Z'
 title: THE RIGHT SHOT EVERY TIME
 author: []
+sourcePath: _posts/2016-01-27-the-right-shot-every-time.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-the-right-shot-every-time.md
-published: true
-url: the-right-shot-every-time/index.html
-_type: Article
+_type: Blurb
 
 ---
 Why waste time cropping by hand? The Grid automatically detects faces in your photos and crops images to fit any size on any display. All you have to do is find the perfect photo.
