@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: HELLO LAYOUT FILTERS
-datePublished: '2016-01-27T21:39:46.580Z'
-dateModified: '2016-01-27T21:39:35.150Z'
+datePublished: '2016-01-27T22:19:46.121Z'
+dateModified: '2016-01-27T22:09:53.624Z'
 title: GOODBYE TEMPLATES
 author: []
 authors: []
