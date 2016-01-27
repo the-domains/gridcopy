@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[GridCopy]]></title>
         <description><![CDATA[GridCopy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gridcopy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 21:35:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 21:37:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gridcopy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Site As Colorful As You]]></title>
+            <description><![CDATA[<article><h1>A Site As Colorful As You</h1><p>Our algorithms expertly analyze your media and apply color palettes that keep your messaging consistent and unique. The Grid also detects color contrasts, automatically adjusting typography color to maximize legibility.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c84408a-ba2f-4cce-8ab9-97dbb51865fd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/gridcopy/a-site-as-colorful-as-you/index.html</link>
+            <guid isPermaLink="false">a5a09f96-bc80-4008-a136-dd1493b16cac</guid>
+            <pubDate>Wed, 27 Jan 2016 21:37:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello World]]></title>
             <description><![CDATA[<article><h1>Hello World</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs. Want to add e-commerce? Social feeds? A different layout? The Grid just takes care of it. This is not a website builder. This is your personal AI web developer. Its first masterpiece is the website you're looking at right now. Its next one could be yours.</p></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/gridcopy/hello-world/index.html</link>
             <guid isPermaLink="false">29d4bac0-e1fe-429a-8c3c-b22be394a83f</guid>
             <pubDate>Wed, 27 Jan 2016 21:35:21 GMT</pubDate>
         </item>
