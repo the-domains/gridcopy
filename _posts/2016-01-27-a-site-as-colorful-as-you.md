@@ -1,25 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'INTELLIGENT COLOR DETECTION & CORRECTION'
-datePublished: '2016-01-27T21:37:26.307Z'
-dateModified: '2016-01-27T21:37:15.993Z'
+datePublished: '2016-01-27T22:19:37.763Z'
+dateModified: '2016-01-27T22:19:15.060Z'
 title: A Site As Colorful As You
 author: []
+sourcePath: _posts/2016-01-27-a-site-as-colorful-as-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-a-site-as-colorful-as-you.md
-published: true
-url: a-site-as-colorful-as-you/index.html
-_type: Article
+_type: Blurb
 
 ---
 Our algorithms expertly analyze your media and apply color palettes that keep your messaging consistent and unique. The Grid also detects color contrasts, automatically adjusting typography color to maximize legibility.
