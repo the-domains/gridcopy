@@ -1,13 +1,13 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: HELLO LAYOUT FILTERS
-datePublished: '2016-01-28T03:12:08.655Z'
-dateModified: '2016-01-28T03:12:06.520Z'
+datePublished: '2016-01-28T03:14:13.877Z'
+dateModified: '2016-01-28T03:14:10.604Z'
 title: GOODBYE TEMPLATES
 author: []
 sourcePath: _posts/2016-01-27-goodbye-templates.md
@@ -18,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: goodbye-templates/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6a32922-5334-4ded-bd9d-29eb36643d1b.JPG)
