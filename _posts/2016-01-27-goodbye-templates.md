@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: HELLO LAYOUT FILTERS
-datePublished: '2016-01-28T03:12:08.650Z'
+datePublished: '2016-01-28T03:12:08.655Z'
 dateModified: '2016-01-28T03:12:06.520Z'
 title: GOODBYE TEMPLATES
 author: []
