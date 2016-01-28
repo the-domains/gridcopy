@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'INTELLIGENT COLOR DETECTION & CORRECTION'
-datePublished: '2016-01-28T03:13:17.541Z'
+datePublished: '2016-01-28T03:13:17.561Z'
 dateModified: '2016-01-28T03:13:14.941Z'
 title: A Site As Colorful As You
 author: []
