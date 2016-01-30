@@ -1,7 +1,7 @@
 name: GridCopy
 favicon: null
-layout_spectrum: 0.40709
-typography_spectrum: 0.29158
+layout_spectrum: 0.65359
+typography_spectrum: 0.3312
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#ffffff'
   brandStrength: 0.0625
   lightness: 0.375
-  saturation: 0.875
+  saturation: 0.8125
   rhythmicContrast: 0
 purpose: []
